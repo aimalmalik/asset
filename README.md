@@ -1,1 +1,2 @@
-ini adalah asset file
+![Nama Alternatif](https://github.com/aimalmalik/asset)
+
